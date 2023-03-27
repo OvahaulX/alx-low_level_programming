@@ -1,0 +1,1 @@
+Pointers, arrows and string
