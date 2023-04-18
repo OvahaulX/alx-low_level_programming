@@ -1,0 +1,1 @@
+Strectures Typedef
